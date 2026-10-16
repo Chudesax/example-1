@@ -151,7 +151,6 @@
     min-height: 592px;
 
     .intensive__title {
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
         font-size: 30px;
@@ -162,7 +161,6 @@
     }
 
     .intensive__subtitle {
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
         font-size: 23px;
@@ -201,7 +199,6 @@
     position: relative;
 
     .stream__title {
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 900;
         font-size: 30px;
@@ -215,7 +212,6 @@
     .stream__instruction {
         max-width: 751px;
         margin-left: auto;
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 300;
         font-size: 16px;
@@ -251,7 +247,6 @@
     padding: 80px 0 102px;
 
     .features__title {
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 30px;
@@ -285,7 +280,6 @@
     }
 
     .features__descr {
-        font-family: 'Roboto';
         font-style: normal;
         font-weight: 300;
         font-size: 16px;
